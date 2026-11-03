@@ -1,21 +1,21 @@
-# Ol�, sou Natan
+# Olá, sou Natan
 
-Atuo com intelig�ncia comercial e tenho interesse em BI,
-an�lise de dados e automa��o de processos.
+Atuo com inteligência comercial e tenho interesse em BI,
+análise de dados e automação de processos.
 
-Este perfil re�ne projetos pessoais de estudo e demonstra��o,
-com dados fict�cios ou fontes p�blicas identificadas em cada projeto.
+Este perfil reúne projetos pessoais de estudo e demonstração,
+com dados fictícios ou fontes públicas identificadas em cada projeto.
 
 Meus temas de interesse incluem:
-- An�lise de dados e indicadores
+- Análise de dados e indicadores
 - Excel e Power BI
 - SQL e Python
-- Automa��o de tarefas
+- Automação de tarefas
 
 Nos projetos, documento o problema, a origem dos dados,
-as decis�es adotadas, como executar e as limita��es encontradas.
+as decisões adotadas, como executar e as limitações encontradas.
 
 ## Primeiro projeto
 
-[An�lise de vendas com dados fict�cios](https://github.com/hd9bzky8tf-lgtm/analise-vendas-demo)
-� estudo reproduz�vel com Python, SQLite, consultas SQL e indicadores comerciais.
+[Análise de vendas com dados fictícios](https://github.com/hd9bzky8tf-lgtm/analise-vendas-demo)
+— estudo reproduzível com Python, SQLite, consultas SQL e indicadores comerciais.
